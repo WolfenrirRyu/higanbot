@@ -1,0 +1,13 @@
+{
+  "name": "higanbot",
+  "description": "higanbot",
+  "version": "0.0.0",
+  "main": "higanbot.js",
+  "scripts": {
+    "start": "node higanbot.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
